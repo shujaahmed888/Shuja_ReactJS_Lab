@@ -1,0 +1,39 @@
+{
+  "expense": [
+    {
+      "name": "Rishi",
+      "product": "fruits",
+      "price": "100",
+      "date": "2023-05-25",
+      "id": 1
+    },
+    {
+      "name": "Rishi",
+      "product": "Veggie",
+      "price": "100",
+      "date": "2023-05-25",
+      "id": 2
+    },
+    {
+      "name": "Jyo",
+      "product": "Bike",
+      "price": "100",
+      "date": "2023-05-25",
+      "id": 3
+    },
+    {
+      "name": "Jyo",
+      "product": "Vegetables",
+      "price": "2000",
+      "date": "2023-05-26",
+      "id": 4
+    },
+    {
+      "name": "Jyo",
+      "product": "Car repair",
+      "price": "3000",
+      "date": "2023-05-26",
+      "id": 5
+    }
+  ]
+}
